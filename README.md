@@ -9,6 +9,6 @@ Who Is It For?
 If you're tired of clean code and sanity checks and prefer the company of error logs, existential crises, and the unhinged laughter of your fellow coders—welcome home.
 
 Get Involved:
-Clone (Your Sanity): 
+Clone (Your Sanity): https://github.com/Am1t-levy/Brain-Rot-Academy.git
 Contribute to the Madness: Add your own absurd projects or enhance someone else's chaotic creation.
 Join the Descent: Participate in discussions, brainstorm bizarre ideas, and wonder why you're here.
