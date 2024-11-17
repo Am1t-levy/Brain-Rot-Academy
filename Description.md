@@ -12,3 +12,6 @@ Get Involved:
 Clone (Your Sanity): https://github.com/Am1t-levy/Brain-Rot-Academy.git
 Contribute to the Madness: Add your own absurd projects or enhance someone else's chaotic creation.
 Join the Descent: Participate in discussions, brainstorm bizarre ideas, and wonder why you're here.
+
+![image](https://github.com/user-attachments/assets/6a9e4a0a-56a4-4796-9ee3-d8f30eb10467)
+
